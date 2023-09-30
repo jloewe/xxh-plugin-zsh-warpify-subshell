@@ -2,3 +2,4 @@
 # Put here your functions, environment variables, aliases and whatever you need.
 
 CURR_DIR="$(cd "$(dirname "$0")" && pwd)"
+printf '\eP$f{"hook": "SourcedRcFileForWarp", "value": { "shell": "zsh"}}\x9c'
